@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.portable.UnknownException"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="server.StreamSayHelloEvnetHandler"/>
+<fullyQualifiedTypeName name="server.StreamUpdateProfileEventHandler"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.ElementList"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.Attribute"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.Text"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.Serializer"/>
+<fullyQualifiedTypeName name="server.ServerInitializer"/>
+<fullyQualifiedTypeName name="server.ServerListData"/>
+<fullyQualifiedTypeName name="server.HandlerListData"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="server.EventHandler"/>
+<fullyQualifiedTypeName name="java.lang.InstantiationException"/>
+<fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="server.Demultiplex"/>
+<fullyQualifiedTypeName name="server.Dispatcher"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>

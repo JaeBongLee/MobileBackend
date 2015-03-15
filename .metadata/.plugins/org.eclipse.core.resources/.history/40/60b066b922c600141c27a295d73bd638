@@ -1,0 +1,14 @@
+package server;
+
+import java.net.ServerSocket;
+
+public class ThreadPoolDispatcher implements Dispatcher{
+	
+	static final String NUMTHREADS = "8";
+	
+	@Override
+	public void dispatch(ServerSocket serverSocket, HandleMap handleMap) {
+		
+	}
+
+}

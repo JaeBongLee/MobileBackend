@@ -1,0 +1,19 @@
+package server;
+
+import java.io.InputStream;
+
+public class StreamUpdateProfileEventHandler implements EventHandler{
+
+	private static final int DATA_SIZE = 1024;
+	
+	@Override
+	public String getHandler() {
+		return "0x6001";
+	}
+
+	@Override
+	public void handleEvent(InputStream inputStream) {
+		
+	}
+
+}
