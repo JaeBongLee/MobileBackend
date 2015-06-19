@@ -1,9 +1,0 @@
-package server;
-
-import org.simpleframework.xml.ElementList;
-
-public class HandlerListData {
-	
-	@ElementList(entry="handler", inline=true)
-	private List<HandlerData> handler;
-}

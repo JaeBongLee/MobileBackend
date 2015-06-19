@@ -21,5 +21,16 @@
 <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
 <fullyQualifiedTypeName name="server.Demultiplex"/>
 <fullyQualifiedTypeName name="server.Dispatcher"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="java.net.InetSocketAddress"/>
+<fullyQualifiedTypeName name="java.nio.channels.AsynchronousServerSocketChannel"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutionException"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.nio.channels.AsynchronousChannelGroup"/>
+<fullyQualifiedTypeName name="java.nio.channels.CompletionHandler"/>
+<fullyQualifiedTypeName name="java.nio.ByteBuffer"/>
+<fullyQualifiedTypeName name="NioEventHandler"/>
+<fullyQualifiedTypeName name="java.nio.channels.AsynchronousSocketChannel"/>
+<fullyQualifiedTypeName name="Demultiplexer"/>
 </qualifiedTypeNameHistroy>

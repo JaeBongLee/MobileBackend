@@ -23,7 +23,7 @@ public class Demultiplexer implements Runnable{
 			byte[] buffer = new byte[HEADER_SIZE];
 			inputStream.read(buffer);
 			String header = new String(buffer);
-			
+			System.out.println(handleMap.get(header));
 			handleMap.get(header).handleEvent(inputStream);
 			
 			socket.close();

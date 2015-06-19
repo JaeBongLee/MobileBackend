@@ -24,7 +24,7 @@ public class ServerInitializer {
 				
 				if("server1".equals(handlerListData.getName())){
 					List<HandlerData> handlerList = handlerListData.getHandler();
-					for(HandlerData handler : handlerList){
+					for(HandlerData handler : handlerList){  
 						try {
 							reactor.registerHandler(handler.getHandler(), (EventHandler)Class.forName(handler.getHandler()).newInstance());
 						}catch(InstantiationException e){

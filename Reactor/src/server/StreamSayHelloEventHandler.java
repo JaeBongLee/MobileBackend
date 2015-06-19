@@ -31,6 +31,7 @@ public class StreamSayHelloEventHandler implements EventHandler {
 			}
 			sayHello(params);
 			
+			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
